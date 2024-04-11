@@ -1,3 +1,20 @@
 {
-  
+   "testCode":{
+      "Rewards":[
+         {
+            "Type":"poke",
+            "Data":{
+               "name":"Pikachu",
+               "level":10
+            }
+         },
+         {
+            "Type":"item",
+            "Data":{
+               "item":"Masterball",
+               "qty":69
+            }
+         }
+      ]
+   }
 }
