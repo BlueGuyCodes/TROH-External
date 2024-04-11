@@ -14,6 +14,34 @@
                "item":"Masterball",
                "qty":69
             }
+         },
+         {
+            "Type":"poke",
+            "Data":{
+               "name":"Mew",
+               "level":10
+            }
+         },
+         {
+            "Type":"currency",
+            "Data":{
+               "id":"money",
+               "amount":420
+            }
+         },
+         {
+            "Type":"currency",
+            "Data":{
+               "id":"bp",
+               "amount":421
+            }
+         },
+         {
+            "Type":"currency",
+            "Data":{
+               "id":"tix",
+               "amount":422
+            }
          }
       ]
    }
