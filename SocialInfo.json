@@ -1,0 +1,33 @@
+{
+   "ordered":[
+      "Twitter | X",
+      "Tiktok",
+      "Reddit",
+      "Discord"
+   ],
+   "Twitter | X":{
+      "List":[
+         "@Budlesss",
+         "@BlueGuyCodes"
+      ],
+      "colored":"<font color=\"rgb(29,161,242)\">Twitter</font> | <font color=\"rgb(0,0,0)\">X</font>"
+   },
+   "Tiktok":{
+      "List":[
+         "@thereturnofhoopa"
+      ],
+      "color":"0,0,0"
+   },
+   "Reddit":{
+      "List":[
+         "r/BrickBronze"
+      ],
+      "color":"255,86,0"
+   },
+   "Discord":{
+      "List":[
+         "BrickBronze"
+      ],
+      "color":"115,138,219"
+   }
+}
