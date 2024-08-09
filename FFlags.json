@@ -1,6 +1,8 @@
 {
-    "codesEnabled": true,
-    "shinyMultiplier": 1,
-    "HAMultiplier": 1,
-    "roamMultiplier": 1
+   "codesEnabled":true,
+   "multipliers":{
+      "shiny":1,
+      "hiddenAbility":1,
+      "roaming":1
+   }
 }
