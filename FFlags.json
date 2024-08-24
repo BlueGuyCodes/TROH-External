@@ -1,4 +1,5 @@
 {
+   "maxHttpReqs": 3,
    "codesEnabled":true,
    "multipliers":{
       "shiny":1,
