@@ -1,9 +1,31 @@
 {
-   "maxHttpReqs": 4,
+   "maxHttpReqs":3,
    "codesEnabled":true,
    "multipliers":{
       "shiny":1,
       "hiddenAbility":1,
-      "roaming":1
-   }
+      "roaming":1,
+      "hatchRate":1,
+      "moneyRate":1,
+      "expRate":1,
+      "evRate":1
+   },
+   "dsDebug":false,
+   "levelCap":90,
+   "bgc_accs":[
+      452198911,
+      3768615414,
+      1906095486,
+      3881398035
+   ],
+   "battleOpts":{
+      "TIME_BETWEEN_BP_AWARDS":3600,
+      "WIN_DEBUG":false,
+      "callsDebug":false,
+      "unexpectedEffectsDebug":false,
+      "eloDebug":false,
+      "debugMsgs":false,
+      "errDebugMsgs":false
+   },
+   "introMsg":[]
 }
