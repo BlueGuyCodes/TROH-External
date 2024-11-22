@@ -1,0 +1,13 @@
+{
+   "message":[
+      "Test 1",
+      "Test 2",
+      "Test 3"
+   ],
+   "updates":[
+      {
+         "Text":"[H]v2.0.0 - Testing Stuff",
+         "Font":"R1"
+      }
+   ]
+}
